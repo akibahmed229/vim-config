@@ -7,9 +7,7 @@
 :set softtabstop=4
 :set mouse=a
 :set syntax on
-:NERDTree
-:TerminalSplit
-:TagbarToggle
+
 
 
 
